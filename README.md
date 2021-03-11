@@ -10,7 +10,7 @@
  
  🎓  I am studying Industrial Mathematics at the Federal Universty of Goiás
 
-🛠️  I'm working to become a Data Scientist
+🛠️  I'm working to become a problem solver
 
 <hr>
 

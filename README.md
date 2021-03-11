@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center"> 
+	Welcome to my Git Hub 🚀
 
-<!--
-**Alexandre-Magno/Alexandre-Magno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</h1>
 
-Here are some ideas to get you started:
+## About me:
+ 💬  My name is **Alexandre Magno**, I'm 21 years old
+ 
+ 📌  I'm from Formosa, Goiás, Brasil.
+ 
+ 🎓  I am studying Industrial Mathematics at the Federal Universty of Goiás
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️  I'm working to become a Data Scientist
+
+<hr>
+
+## ⚡ Skills:
+- ![C++](https://img.shields.io/badge/C%2B%2B-red) ![Python](https://img.shields.io/badge/Python-blue) ![MO](https://img.shields.io/badge/Modeling%20and%20Optimization-green) ![Heuristics](https://img.shields.io/badge/Heuristics-blue)
+
+
+
+## :telephone_receiver: Contact  :
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/alexandre-magno-b-3bbb16139/)
+[![Gmail Badge](https://img.shields.io/badge/-alexmagno.contato@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexmagno.contato@gmail.com)](mailto:alexmagno.contato@gmail.com)

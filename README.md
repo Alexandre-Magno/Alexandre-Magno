@@ -4,13 +4,16 @@
 </h1>
 
 ## About me:
- 💬  My name is **Alexandre Magno**, I'm 21 years old
+ - 💬  My name is **Alexandre Magno**, I'm 21 years old
  
- 📌  I'm from Formosa, Goiás, Brasil.
+ - 📌  I'm from Formosa, Goiás, Brasil.
  
- 🎓  I am studying Industrial Mathematics at the Federal Universty of Goiás
+ - 🎓  I am studying Industrial Mathematics at the Federal Universty of Goiás
 
-🛠️  I'm working to become a problem solver
+- 🛠️  I'm working to become a problem solver
+
+- :blue_book: Data Science Student and scientific initiation in Operational Research
+
 
 <hr>
 

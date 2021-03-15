@@ -23,5 +23,5 @@
 
 
 ## :telephone_receiver: Contact  :
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/alexandre-magno-b-3bbb16139/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-magno-b-3bbb16139/)
 [![Gmail Badge](https://img.shields.io/badge/-alexmagno.contato@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexmagno.contato@gmail.com)](mailto:alexmagno.contato@gmail.com)

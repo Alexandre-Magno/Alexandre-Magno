@@ -20,6 +20,18 @@
 ## ⚡ Skills:
 - ![C++](https://img.shields.io/badge/C%2B%2B-red) ![Python](https://img.shields.io/badge/Python-blue) ![MO](https://img.shields.io/badge/Modeling%20and%20Optimization-green) ![Heuristics](https://img.shields.io/badge/Heuristics-blue)
 
+## Data Science Projects:
+
+### [Cardiovascular Disease Detection](https://github.com/Alexandre-Magno/CardioCatchDisease)
+In this project, I developed a Machine Learning model able to detect disease in early stages with **74% accuracy** over 70k patience.
+The performance of this model would increase **revenue of U$175.3 millions** according to the company's business model described in the problem definition.
+
+
+## Data Analysis - Insight Projects:
+
+### [House Rocket](https://github.com/Alexandre-Magno/House_Rocket_Insights)
+In this project I developed a business solution using exploratory data analysis.The solution would increase **revenue of U$678.1 millions** according to the company's business model described in the problem definition.
+
 
 
 ## :telephone_receiver: Contact  :

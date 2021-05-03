@@ -17,9 +17,11 @@ I have already developed solutions for important business problems such as  clas
 The details of each solution are described in the projects below.
 
 
-**Analytical Tools:** SeaBorn
+**Analytical Tools:** 
 
 **Data Collect and Storage:** SQL
+
+**Development**: Git, Linux
 
 **Data Processing and Analysis:** Python
 

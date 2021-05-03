@@ -41,9 +41,13 @@ The details of each solution are described in the projects below.
 In this project, I developed a Machine Learning model able to detect disease in early stages with **74% accuracy** over 70k patience.
 The performance of this model would increase **revenue of U$175.3 millions** according to the company's business model described in the problem definition.
 
-## Data Anaysis - Insight Projects
+### [Sales Forecast](https://github.com/Alexandre-Magno/rossmann_sales)
+In this project, I developed a machine learning model capable of **forecasting sales** and the resulta can be accessed by a bot on Telegram
 
-### [House Rocket](https://github.com/Alexandre-Magno/House_Rocket_Insights)
+
+## Data Analysis - Insight Projects
+
+### [Real Estate Market](https://github.com/Alexandre-Magno/House_Rocket_Insights)
 In this project I developed a business solution using exploratory data analysis.The solution would increase **revenue of U$678.1 millions** according to the company's business model described in the problem definition.
 
 

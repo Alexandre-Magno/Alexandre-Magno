@@ -9,18 +9,15 @@ The main objective of this data science personal project portfolio is to demonst
 # Alexandre Magno
 <sub> *Data Scientist* </sub>
 
-I have been studying Data Science since January 2021. I am in the sixth period of Industrial Mathematics and I am doing a scientific initiation in Operational Research.
+I have been studying Data Science since January 2021. I am in the sixth period of Industrial Mathematics and I am doing a scientific initiation in Operational Research since September 2020.
 
 
-
-I have mastery of all stages of developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model in production using Clouds.
-
-I have already developed solutions for important business problems such as  classifying diseases early and buying houses at a price below the market.
+I have already developed solutions for important business problems such as  classifying diseases early , buying houses at a price below the market and sales forecast.
 
 The details of each solution are described in the projects below.
 
 
-**Analytical Tools:**
+**Analytical Tools:** SeaBorn
 
 **Data Collect and Storage:** SQL
 
